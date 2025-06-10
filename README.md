@@ -52,7 +52,7 @@ My name is Parth Shirawala. I recently completed my B-Engg (CE) degree from Guja
 
 ## 👨 Social
 
-1. [LinkedIn](www.linkedin.com/in/parthshirawala/)
+1. [LinkedIn](https://www.linkedin.com/in/parthshirawala/)
 2. [LeetCode](https://leetcode.com/theparthshira/)
 3. [CodeChef](https://www.codechef.com/users/mighty_8559)
 4. [Codeforces](http://codeforces.com/profile/shirawalaparth)
