@@ -1,4 +1,4 @@
-# Hi there, I am Ekansh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
+# Hi there, I am Parth! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px">
 
 My name is Parth Shirawala. I recently completed my B-Engg (CE) degree from Gujarat Technological University. Currently, I work as a Software Development Engineer at iGeek. One of my passions is problem-solving using Data Structures and algorithms. I also enjoy traveling and reading.
 
