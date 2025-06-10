@@ -46,7 +46,7 @@ My name is Parth Shirawala. I recently completed my B-Engg (CE) degree from Guja
 [![GitHub Streak](https://streak-stats.demolab.com?user=theparthshira&theme=dark)](https://git.io/streak-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=theparthshira&count_private=true&show_icons=true&theme=light" alt="Ekansh's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=theparthshira&count_private=true&show_icons=true&theme=light" alt="parth's github stats"/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theparthshira&layout=compact&theme=light"/> -->
 
@@ -63,6 +63,6 @@ My name is Parth Shirawala. I recently completed my B-Engg (CE) degree from Guja
 Show some ❤️ by starring some of the repositories,maybe!
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ekanshsaxena&style=plastic" alt="devded" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theparthshira&style=plastic" alt="devded" /> </p>
 
 </div>
